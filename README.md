@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-I am ## Martin Nikolov,
-Front end developer 
+I am Martin Nikolov, welcome to my Github  :))
